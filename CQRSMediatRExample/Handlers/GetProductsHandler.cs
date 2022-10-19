@@ -1,4 +1,5 @@
-﻿using CQRSMediatRExample.Queries;
+﻿using CQRSMediatRExample.DTO;
+using CQRSMediatRExample.Queries;
 using MediatR;
 
 namespace CQRSMediatRExample.Handlers

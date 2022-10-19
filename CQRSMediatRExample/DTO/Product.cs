@@ -1,4 +1,4 @@
-﻿namespace CQRSMediatRExample
+﻿namespace CQRSMediatRExample.DTO
 {
     public class Product
     {

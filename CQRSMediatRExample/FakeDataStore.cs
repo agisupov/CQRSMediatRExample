@@ -1,4 +1,6 @@
-﻿namespace CQRSMediatRExample
+﻿using CQRSMediatRExample.DTO;
+
+namespace CQRSMediatRExample
 {
     public class FakeDataStore
     {

@@ -1,4 +1,5 @@
 ﻿using CQRSMediatRExample.Commands;
+using CQRSMediatRExample.DTO;
 using MediatR;
 using Microsoft.AspNetCore.Http.HttpResults;
 

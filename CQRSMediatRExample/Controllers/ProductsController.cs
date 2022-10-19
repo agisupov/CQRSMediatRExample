@@ -1,4 +1,5 @@
 ﻿using CQRSMediatRExample.Commands;
+using CQRSMediatRExample.DTO;
 using CQRSMediatRExample.Notifications;
 using CQRSMediatRExample.Queries;
 using MediatR;
